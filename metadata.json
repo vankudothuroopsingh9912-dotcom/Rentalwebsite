@@ -1,0 +1,6 @@
+{
+  "name": "RentEase - Modern Rental Platform",
+  "description": "Rent furniture, home appliances, electronics, and office equipment with flexible monthly plans, seamless booking, and instant delivery tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
